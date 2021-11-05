@@ -1,2 +1,3 @@
 # Applied-Data-Science-Capstone
-Applied Data Science Capstone
+Coursera Applied Data Science Capstone
+
